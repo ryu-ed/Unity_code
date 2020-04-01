@@ -1,4 +1,4 @@
-# Unity_code
+# Walk program (Unity)
 Scripts in c # for the execution of walk, still and attack animations of a zombie. So also a script that controls the patrol pattern of my character.
 
 Script Enemy01.cs: script that controls the action of the character's animations.
